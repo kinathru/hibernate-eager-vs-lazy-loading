@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/hibernate-eager-vs-lazy-loading.iml" filepath="$PROJECT_DIR$/hibernate-eager-vs-lazy-loading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hibernate-eager-vs-lazy-loading.iml" filepath="$PROJECT_DIR$/.idea/hibernate-eager-vs-lazy-loading.iml" />
     </modules>
   </component>
 </project>
